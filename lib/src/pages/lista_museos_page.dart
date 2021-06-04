@@ -18,7 +18,6 @@ class ListaMuseosPage extends StatefulWidget {
 }
 
 class _ListaMuseosPageState extends State<ListaMuseosPage> {
-  //final museosProvider = new MuseosProvider();
   final List<Museo> museos = [];
   ScrollController _scrollController = new ScrollController();
   bool _isLoading = false;
