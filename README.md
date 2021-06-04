@@ -1,16 +1,13 @@
-# culturepoints
+# Culture Points
 
-A new Flutter project.
+[![GitHub last commit](https://img.shields.io/github/last-commit/KamiKeys/Culture-Points.svg)]()
+[![GitHub issues](https://img.shields.io/github/issues/KamiKeys/Culture-Points.svg)]()
+[![GitHub stars](https://img.shields.io/github/stars/KamiKeys/Culture-Points.svg)]()
+[![GitHub forks](https://img.shields.io/github/forks/KamiKeys/Culture-Points.svg)](https://github.com/KamiKeys/Culture-Points.svgnetwork)
+  
+Culture Points es una aplicación con el propósito de descubrir a las personas, la cultura local de su ciudad. Nace de la idea en la que cualquier persona pueda ver en un par de minutos todos los puntos de interés e informarse, de esta manera podrá elegir qué visitar.
 
-## Getting Started
+Teniendo a su disposición todos los museos de Málaga en la palma de su mano.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License
+**Culture Points** is released under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License; see _LICENSE_ for further details.
