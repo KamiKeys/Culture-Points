@@ -1,10 +1,11 @@
-import 'package:culturepoints/src/pages/lista_museos_fav_page.dart';
-import 'package:culturepoints/src/pages/lista_museos_page.dart';
-import 'package:culturepoints/src/providers/museos_provider.dart';
-import 'package:culturepoints/src/utils/tabs_navigator.dart';
-import 'package:culturepoints/src/widgets/search_button_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart' show ChangeNotifierProvider, Provider;
+
+//  -----------------------------------------------------------------
+import 'package:culturepoints/src/pages/lista_museos_fav_page.dart';
+import 'package:culturepoints/src/pages/lista_museos_page.dart';
+import 'package:culturepoints/src/utils/tabs_navigator.dart';
+import 'package:culturepoints/src/widgets/search_button_widget.dart';
 
 class TabsPage extends StatefulWidget {
   static String route = 'tabs';

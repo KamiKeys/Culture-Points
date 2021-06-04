@@ -1,8 +1,10 @@
+import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
+
+//  ---------------------------------------------------------
 import 'package:culturepoints/src/models/museos_model.dart';
 import 'package:culturepoints/src/providers/museos_provider.dart';
 import 'package:culturepoints/src/search/museo_search_delegate.dart';
-import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
 
 class SearchButtonWidget extends StatefulWidget {
   @override

@@ -1,6 +1,8 @@
+import 'package:flutter/material.dart';
+
+//  ---------------------------------------------
 import 'package:culturepoints/src/models/museos_model.dart';
 import 'package:culturepoints/src/pages/museo_page.dart';
-import 'package:flutter/material.dart';
 
 class MuseoSearchDelegate extends SearchDelegate {
   String selection = '';

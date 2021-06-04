@@ -1,12 +1,11 @@
-import 'package:culturepoints/src/pages/tabs_page.dart';
-import 'package:culturepoints/src/providers/museos_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
+import 'package:provider/provider.dart';
 
 //  ------------------------------------
 import 'package:culturepoints/src/routes/routes.dart';
-import 'package:culturepoints/src/pages/lista_museos_page.dart';
-import 'package:provider/provider.dart';
+import 'package:culturepoints/src/pages/tabs_page.dart';
+import 'package:culturepoints/src/providers/museos_provider.dart';
 
 void main() => runApp(MyApp());
 
